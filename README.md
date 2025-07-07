@@ -102,10 +102,10 @@ ICT_in_Building_Design_Team_4/
 │   ├── Prediction_Cooling.ipynb
 │   └── Prediction_Heating.ipynb
 │
-├── e_school.dsb                       # DesignBuilder project file
-├── Presentation.pptx                  # Project presentation        
-├── README.md                       
-└── Report.pdf                         # Full project report
+├── Presentation.pptx                  # Project presentation
+├── README.md      
+├── Report.pdf                         # Full project report
+└── e_school.dsb                       # DesignBuilder project file                        
 ```
 
 ---
