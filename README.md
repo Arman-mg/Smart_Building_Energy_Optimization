@@ -112,12 +112,12 @@ ICT_in_Building_Design_Team_4/
 
 ## 🗝 Key Techniques
 
-🔹 **EnergyPlus + eppy**: Used for hourly energy simulations with `.idf` and `.epw` data.
-🔹 **Surrogate Modeling with ANN**: Trained on Latin Hypercube samples to capture nonlinear relationships in energy consumption.
-🔹 **Optimization (NSGA-II)**: Multi-objective evolutionary algorithm exploring parameter spaces for optimal energy profiles.
-🔹 **MQTT + InfluxDB + Grafana**: Real-time sensor data emulation, storage, and visualization in an IoT-like environment.
-🔹 **Energy Signature Analysis**: Applied OLS regression to quantify energy responsiveness to ΔT under different sampling rates.
-🔹 **LSTM Models**: Configured with sliding window approach; evaluated performance across varying prediction horizons.
+- **EnergyPlus + eppy**: Used for hourly energy simulations with `.idf` and `.epw` data.
+- **Surrogate Modeling with ANN**: Trained on Latin Hypercube samples to capture nonlinear relationships in energy consumption.
+- **Optimization (NSGA-II)**: Multi-objective evolutionary algorithm exploring parameter spaces for optimal energy profiles.
+- **MQTT + InfluxDB + Grafana**: Real-time sensor data emulation, storage, and visualization in an IoT-like environment.
+- **Energy Signature Analysis**: Applied OLS regression to quantify energy responsiveness to ΔT under different sampling rates.
+- **LSTM Models**: Configured with sliding window approach; evaluated performance across varying prediction horizons.
 
 ---
 
